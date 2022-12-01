@@ -1,11 +1,9 @@
-# Algomo
-
-## Multilingual Indexing API
+# Multilingual Indexing API
 
 Build an API with multilingual (100+ languages) sentence grouping model (https://github.com/hsuning/multilingual-sentences-grouping) for question indexing.
 
 
-### Folder Structure
+## Folder Structure
     .
     ├── api                    # For dockerizing
     │    ├── api.py             # Python codes for api, py version of the Task-3 in /notebooks 
@@ -19,7 +17,7 @@ Build an API with multilingual (100+ languages) sentence grouping model (https:/
     ├── LICENSE
     └── README.md
 
-### Built With
+## Built With
 This section list all frameworks/libraries used.
 - fastapi==0.87.0
 - joblib==1.1.0
